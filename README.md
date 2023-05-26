@@ -13,7 +13,8 @@
 
 
 ## How to download our repository:
-'''
-git clone https://github.com/gjyotin305/zipConverter.git
 
-'''
+`git clone https://github.com/gjyotin305/zipConverter.git
+cd`
+
+

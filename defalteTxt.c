@@ -8,7 +8,7 @@
 
 int main()
 {
-    char *file_input = "ichigo.png";
+    char *file_input = "filename.txt";
     char *compressed_file = "compressed_lvl1.zip";
 
     FILE *fp = fopen(file_input, "rb");

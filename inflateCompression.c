@@ -7,8 +7,8 @@
 
 int main()
 {
-    const char *zip_file = "compressedboi.zip";
-    const char *file_output = "inflated_file.txt";
+    const char *zip_file = "compressed_lvl1.zip";
+    const char *file_output = "inflated_file.png";
 
     gzFile zip_fp = gzopen(zip_file, "rb"); // gzopen opens the file in Read Binary form, gz
     if (!zip_fp)
